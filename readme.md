@@ -6,6 +6,8 @@ A python script to automatically check the alerts on Sophos Central console for 
 
 I have only tested this on a Windows 10 x64 machine so far but It should work on any 64 bit Windows. (Please let me know if it doesn't)
 
+Geckodriver.exe is required for Selenium automation to work. More info can be found here about Geckodriver https://github.com/mozilla/geckodriver
+
 ## Installing
 
 ### Easy Way (Pre-Compiled)
